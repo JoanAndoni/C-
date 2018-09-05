@@ -1,0 +1,7 @@
+Numero de ingresos de Elbamg:  2
+Numero de ingresos de Erik:    2
+Numero de ingresos de Adamar:  2
+Numero de ingresos de Tanny:   2
+Numero de ingresos de Rodo:    2
+Numero de ingresos de Muppet:  3
+Numero de ingresos de Ana:     2
